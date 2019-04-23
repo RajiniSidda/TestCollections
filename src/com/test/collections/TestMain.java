@@ -30,6 +30,7 @@ public class TestMain {
         }
 
         System.out.println("palindrome");
+        System.out.println("done");
 
     }
 }
